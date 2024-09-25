@@ -1,0 +1,19 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  user: one
+  tipo_despesa: one
+  data: 2024-09-25 13:24:58
+  descricao: MyString
+  categoria: one
+  metodo_pagamento: MyString
+  status_despesa: one
+
+two:
+  user: two
+  tipo_despesa: two
+  data: 2024-09-25 13:24:58
+  descricao: MyString
+  categoria: two
+  metodo_pagamento: MyString
+  status_despesa: two
